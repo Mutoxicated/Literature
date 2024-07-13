@@ -1,5 +1,5 @@
 # Pending Movies
-Movies i've yet to watch
+Movies I've yet to watch:
 
 1. Ocean's Eleven
 2. The garfield movie
