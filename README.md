@@ -10,3 +10,7 @@ Movies i've yet to watch
 7. Smurfs: The Lost Village
 8. Tenet
 9. The Harry Potter movies
+
+# Contribute
+
+I accept any recommendation. Just make a pr and I'll accept it.
