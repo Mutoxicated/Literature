@@ -1,4 +1,4 @@
-# Pending-Movies
+# Pending Movies
 Movies i've yet to watch
 
 1. Ocean's Eleven
