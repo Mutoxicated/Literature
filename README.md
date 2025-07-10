@@ -5,9 +5,9 @@ Movies I've yet to watch:
 2. The garfield movie
 3. Inside-Out
 4. ~El Camino~ [review](https://github.com/Mutoxicated/Pending-Movies/issues/1)
-5. Borat
+5. ~Borat~ (it was boring)
 6. The spongebob movies
-7. Smurfs: The Lost Village
+7. ~Smurfs: The Lost Village~ (legendary)
 8. Tenet
 9. The Harry Potter movies
 10. The Matrix
